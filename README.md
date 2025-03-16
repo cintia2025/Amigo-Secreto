@@ -7,5 +7,5 @@
 ## :hammer:Funcionalidades del proyecto
 -   **Añade Nombres**: Sistema que permite ingresar nombre de amigos.
 -   **Listado de nombres**: Muestra el listado de los nombres ingresados.
--   **Random Drawing**: El botón "Sortear amigo" permite elegir al azar quién será tu amigo secreto.
+-   **Sortear amigo de forma aleatoria**: El botón "Sortear amigo" permite elegir al azar quién será tu amigo secreto.
  
